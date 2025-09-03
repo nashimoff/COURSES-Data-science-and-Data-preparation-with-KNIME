@@ -1,0 +1,150 @@
+2025-09-03 20:44:05,112 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2025-09-03 20:44:05,113 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2025-09-03 20:44:05,114 : INFO  : main :  : NodeLogger :  :  : # Welcome to KNIME Analytics Platform v5.5.1.v202507241444 (Build July 30, 2025)        #
+2025-09-03 20:44:05,114 : INFO  : main :  : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2025-09-03 20:44:05,114 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : # Copyright by KNIME AG, Zurich, Switzerland and others.                                #
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : # Website: http://www.knime.com                                                         #
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : # E-mail: contact@knime.com                                                             #
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : # D:\COURSES-Data-science-and-Data-preparation-with-KNIME\.metadata\knime\knime.log
+2025-09-03 20:44:05,115 : INFO  : main :  : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2025-09-03 20:44:05,123 : INFO  : main :  : NodeLogger :  :  : # logging date=Wed Sep 03 20:44:05 KGT 2025
+2025-09-03 20:44:05,124 : INFO  : main :  : NodeLogger :  :  : # java.version=17.0.5
+2025-09-03 20:44:05,124 : INFO  : main :  : NodeLogger :  :  : # java.vm.version=17.0.5+8
+2025-09-03 20:44:05,124 : INFO  : main :  : NodeLogger :  :  : # java.vendor=Eclipse Adoptium
+2025-09-03 20:44:05,124 : INFO  : main :  : NodeLogger :  :  : # os.name=Windows 11
+2025-09-03 20:44:05,124 : INFO  : main :  : NodeLogger :  :  : # os.arch=amd64
+2025-09-03 20:44:05,124 : INFO  : main :  : NodeLogger :  :  : # number of CPUs=8
+2025-09-03 20:44:05,124 : INFO  : main :  : NodeLogger :  :  : # assertions=off
+2025-09-03 20:44:05,133 : INFO  : main :  : NodeLogger :  :  : # host=LAPTOP-3C6HUKS2
+2025-09-03 20:44:05,135 : INFO  : main :  : NodeLogger :  :  : # username=myrza
+2025-09-03 20:44:05,136 : INFO  : main :  : NodeLogger :  :  : # max mem=8092MB
+2025-09-03 20:44:05,136 : INFO  : main :  : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2025-09-03 20:44:05,148 : INFO  : main :  : NodeLogger :  :  : # KNID=11-cd19051fc8000302-01-db1ec72ed12696ea
+2025-09-03 20:44:05,149 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2025-09-03 20:44:05,149 : DEBUG : main :  : KNIMELogger :  :  : 12 messages were logged before logging was initialized; see below...
+2025-09-03 20:43:31,308 : DEBUG : main :  : EclipseProxyServiceInitializer :  :  : (1/3) Opened OSGi service tracker for 'org.eclipse.core.net.proxy.IProxyService'
+2025-09-03 20:43:31,362 : DEBUG : main :  : ApplicationHealth :  :  : Registering JMX bean for org.knime.core:type=Execution,name=GlobalPool
+2025-09-03 20:43:31,363 : DEBUG : main :  : ApplicationHealth :  :  : Registering JMX bean for org.knime.core:type=Execution,name=NodeStates
+2025-09-03 20:43:31,364 : DEBUG : main :  : ApplicationHealth :  :  : Registering JMX bean for org.knime.core:type=Memory,name=ObjectInstances
+2025-09-03 20:43:31,371 : DEBUG : main :  : IEarlyStartup :  :  : Running application "org.knime.product.KNIME_APPLICATION"
+2025-09-03 20:43:31,371 : DEBUG : main :  : IEarlyStartup :  :  : Moving from stage <none> to stage EARLIEST
+2025-09-03 20:43:31,372 : DEBUG : main :  : IEarlyStartup :  :  : Executing startup hook `org.knime.core.node.logging.JavaUtilLoggingAdapter#run()` at stage EARLIEST
+2025-09-03 20:43:31,374 : DEBUG : main :  : IEarlyStartup :  :  : Executing startup hook `org.knime.js.cef.CEFEarlyStartup#run()` at stage EARLIEST
+2025-09-03 20:43:31,592 : DEBUG : main :  : KNIMEApplication :  :  : Checking for instance location
+2025-09-03 20:44:04,970 : DEBUG : main :  : KNIMEApplication :  :  : Instance location set
+2025-09-03 20:44:05,019 : DEBUG : main :  : IEarlyStartup :  :  : Moving from stage EARLIEST to stage AFTER_PROFILES_SET
+2025-09-03 20:44:05,019 : DEBUG : main :  : IEarlyStartup :  :  : Executing startup hook `org.knime.core.node.logging.KNIMELogger$EarlyStartupInitializer#run()` at stage AFTER_PROFILES_SET
+2025-09-03 20:44:05,150 : DEBUG : main :  : KNIMELogger :  :  : End of buffered log messages
+2025-09-03 20:44:05,150 : DEBUG : main :  : IEarlyStartup :  :  : Executing startup hook `org.knime.core.eclipseUtil.EclipseProxyServiceInitializer#run()` at stage AFTER_PROFILES_SET
+2025-09-03 20:44:05,303 : DEBUG : main :  : NativeProxyProviderWrapper :  :  : Invoked default constructor in class "class org.eclipse.core.internal.net.ProxyManager" via reflectionto forcibly create new instance
+2025-09-03 20:44:05,304 : DEBUG : main :  : NativeProxyProviderWrapper :  :  : Forcibly set field "preferenceManager" in class "class org.eclipse.core.internal.net.ProxyManager" to "org.eclipse.core.internal.net.PreferenceManager@37e7c4cc" via reflection
+2025-09-03 20:44:05,308 : DEBUG : main :  : NativeProxyProviderWrapper :  :  : Forcibly set field "nativeProxyProvider" in class "class org.eclipse.core.internal.net.ProxyManager" to "org.knime.core.eclipseUtil.NativeProxyProviderWrapper@30b3d899" via reflection
+2025-09-03 20:44:05,308 : DEBUG : main :  : EclipseProxyServiceInitializer :  :  : (3/3) Successfully installed proxy support
+2025-09-03 20:44:05,308 : DEBUG : main :  : EclipseProxyServiceInitializer :  :  : (2/3) Initialized OSGi service 'org.eclipse.core.net.proxy.IProxyService'
+2025-09-03 20:44:05,308 : DEBUG : main :  : IEarlyStartup :  :  : Executing startup hook `org.knime.core.internal.MountTableInitializerEarlyStartup#run()` at stage AFTER_PROFILES_SET
+2025-09-03 20:44:05,943 : DEBUG : main :  : WorkbenchMountTable :  :  : Mounted Explorer Temp Space 'knime-temp-space' - com.knime.explorer.tempspace
+2025-09-03 20:44:05,970 : DEBUG : main :  : IEarlyStartup :  :  : Executing startup hook `org.knime.ui.java.OnEarlyStartup#run()` at stage AFTER_PROFILES_SET
+2025-09-03 20:44:06,003 : DEBUG : KNIME-Worker-0 :  : NodeFactoryProvider :  :  : Duplicate node factory id: org.knime.base.node.preproc.filter.column.FilterColumnNodeFactory
+2025-09-03 20:44:06,003 : DEBUG : KNIME-Worker-0 :  : NodeFactoryProvider :  :  : Duplicate node factory id: org.knime.base.node.preproc.joiner.NewJoinerNodeFactory
+2025-09-03 20:44:06,003 : DEBUG : KNIME-Worker-0 :  : NodeFactoryProvider :  :  : Duplicate node factory id: org.knime.base.node.preproc.split.SplitNodeFactory
+2025-09-03 20:44:06,004 : DEBUG : KNIME-Worker-0 :  : NodeFactoryProvider :  :  : Duplicate node factory id: org.knime.base.filehandling.filemetainfo.FileMetaInfoNodeFactory
+2025-09-03 20:44:06,005 : DEBUG : KNIME-Worker-0 :  : NodeFactoryProvider :  :  : Duplicate node factory id: org.knime.distmatrix.knn.KnnDistNodeFactory
+2025-09-03 20:44:06,010 : DEBUG : KNIME-Worker-0 :  : NodeFactoryProvider :  :  : Collected NodeFactory extensions... found 992 nodes (315 deprecated, 10 hidden) in 0.0s
+2025-09-03 20:44:06,180 : DEBUG : KNIME-Worker-0 :  : NodeFactoryProvider :  :  : Collected NodeSetFactory extensions... found 3 node sets with 25 nodes in 0.2s
+2025-09-03 20:44:06,305 : DEBUG : Node Repository Initializer :  : NodeSpecCache :  :  : Computing node specifications for KNIME AP Core feature
+2025-09-03 20:44:06,528 : DEBUG : Node Repository Initializer :  : NodeSpecCache :  :  : Computing node specifications for KNIME Distance Matrix Extension
+2025-09-03 20:44:06,652 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.node.mine.treeensemble2.distance.RandomForestDistanceFactory'
+2025-09-03 20:44:06,653 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distmatrix.calculate.measure.MatrixDistanceFactory'
+2025-09-03 20:44:06,654 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.measure.OldDistanceWrapperDistanceFactory'
+2025-09-03 20:44:06,655 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory'
+2025-09-03 20:44:06,656 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.string.tversky.TverskyDistanceFactory'
+2025-09-03 20:44:06,656 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory'
+2025-09-03 20:44:06,656 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory'
+2025-09-03 20:44:06,657 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.bytevector.CosineDistanceMeasureFactory'
+2025-09-03 20:44:06,658 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory'
+2025-09-03 20:44:06,658 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory'
+2025-09-03 20:44:06,659 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.bytevector.PNormDistanceMeasureFactory'
+2025-09-03 20:44:06,660 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory'
+2025-09-03 20:44:06,661 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.numerical.cosine.CosineDistanceFactory'
+2025-09-03 20:44:06,662 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.jsnippet.JSnippetDistanceFactory'
+2025-09-03 20:44:06,663 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.jsnippet.aggregated.AggregatedDistanceFactory'
+2025-09-03 20:44:06,663 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.mahalanobis.MahalanobisDistanceFactory'
+2025-09-03 20:44:06,665 : DEBUG : Node Repository Initializer :  : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.string.jarowinkler.JaroWinklerDistanceFactory'
+2025-09-03 20:44:06,683 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory
+2025-09-03 20:44:06,698 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory
+2025-09-03 20:44:06,700 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory
+2025-09-03 20:44:06,701 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory
+2025-09-03 20:44:06,703 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory
+2025-09-03 20:44:06,704 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory
+2025-09-03 20:44:06,705 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory
+2025-09-03 20:44:06,706 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory
+2025-09-03 20:44:06,724 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory
+2025-09-03 20:44:06,725 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory
+2025-09-03 20:44:06,726 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory
+2025-09-03 20:44:06,727 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory
+2025-09-03 20:44:06,729 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.cosine.CosineDistanceFactory
+2025-09-03 20:44:06,730 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.cosine.CosineDistanceFactory
+2025-09-03 20:44:06,731 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.cosine.CosineDistanceFactory
+2025-09-03 20:44:06,732 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.cosine.CosineDistanceFactory
+2025-09-03 20:44:06,768 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory
+2025-09-03 20:44:06,770 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory
+2025-09-03 20:44:06,771 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory
+2025-09-03 20:44:06,772 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory
+2025-09-03 20:44:06,772 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.CosineDistanceMeasureFactory
+2025-09-03 20:44:06,773 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.CosineDistanceMeasureFactory
+2025-09-03 20:44:06,774 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.CosineDistanceMeasureFactory
+2025-09-03 20:44:06,775 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.CosineDistanceMeasureFactory
+2025-09-03 20:44:06,777 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.PNormDistanceMeasureFactory
+2025-09-03 20:44:06,778 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.PNormDistanceMeasureFactory
+2025-09-03 20:44:06,778 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.PNormDistanceMeasureFactory
+2025-09-03 20:44:06,779 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.PNormDistanceMeasureFactory
+2025-09-03 20:44:06,780 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory
+2025-09-03 20:44:06,782 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory
+2025-09-03 20:44:06,783 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory
+2025-09-03 20:44:06,784 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory
+2025-09-03 20:44:06,832 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.jarowinkler.JaroWinklerDistanceFactory
+2025-09-03 20:44:06,834 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.jarowinkler.JaroWinklerDistanceFactory
+2025-09-03 20:44:06,835 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.jarowinkler.JaroWinklerDistanceFactory
+2025-09-03 20:44:06,836 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.jarowinkler.JaroWinklerDistanceFactory
+2025-09-03 20:44:06,838 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.tversky.TverskyDistanceFactory
+2025-09-03 20:44:06,839 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.tversky.TverskyDistanceFactory
+2025-09-03 20:44:06,840 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.tversky.TverskyDistanceFactory
+2025-09-03 20:44:06,841 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.tversky.TverskyDistanceFactory
+2025-09-03 20:44:06,842 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory
+2025-09-03 20:44:06,843 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory
+2025-09-03 20:44:06,844 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory
+2025-09-03 20:44:06,845 : DEBUG : Node Repository Initializer :  : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory
+2025-09-03 20:44:06,910 : DEBUG : Node Repository Initializer :  : HiLiteHandler :  :  : Adding hilite translator to handler 11487693-4b14-4e2d-9398-936e603757d0
+2025-09-03 20:44:06,940 : DEBUG : Node Repository Initializer :  : HiLiteHandler :  :  : Adding hilite translator to handler 942de37b-042d-4776-b68a-bd38da088aea
+2025-09-03 20:44:06,989 : DEBUG : Node Repository Initializer :  : HiLiteHandler :  :  : Adding hilite translator to handler 85219aef-d501-4b18-91c8-784082f80d54
+2025-09-03 20:44:07,022 : DEBUG : Node Repository Initializer :  : NodeSpecCache :  :  : Computing node specifications for KNIME Quick Forms
+2025-09-03 20:44:07,195 : DEBUG : Node Repository Initializer :  : MoleculeSketcherRegistry :  :  : Added molecule sketcher 'org.knime.ext.js.molecule.Ketcher_2_7_2' from 'org.knime.ext.js'
+2025-09-03 20:44:07,624 : INFO  : main :  : StringHistory :  :  : History file 'D:\COURSES-Data-science-and-Data-preparation-with-KNIME\.metadata\knime\history_database_drivers.txt' does not exist.
+2025-09-03 20:44:07,625 : INFO  : main :  : StringHistory :  :  : History file 'D:\COURSES-Data-science-and-Data-preparation-with-KNIME\.metadata\knime\history_database_urls.txt' does not exist.
+2025-09-03 20:44:07,625 : DEBUG : main :  : DatabaseConnectionSettings :  :  : Settings database timeout to 15 seconds
+2025-09-03 20:44:07,626 : DEBUG : main :  : DatabaseConnectionSettings :  :  : Database concurrency (sync via database connection) is true.
+2025-09-03 20:44:07,626 : DEBUG : main :  : KNIMECorePlugin :  :  : Setting KNIME max thread count to 16
+2025-09-03 20:44:07,627 : DEBUG : main :  : KNIMECorePlugin :  :  : Setting KNIME temp dir to "C:\Users\myrza\AppData\Local\Temp"
+2025-09-03 20:46:10,976 : WARN  : comm-pool-thread-1 :  : Node : CSV Reader : 3:1 : Please specify a file
+2025-09-03 21:28:26,136 : ERROR : KNIME-Workflow-Notifier :  : WorkflowListener :  :  : Caught an exception while notifying workflow state listeners, skipping throwing to preserve the state change
+java.util.concurrent.RejectedExecutionException: Task org.knime.gateway.impl.service.util.CallThrottle$$Lambda$2974/0x0000000802011140@4db1efbd rejected from java.util.concurrent.ThreadPoolExecutor@1dad674[Terminated, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 23]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(Unknown Source)
+	at java.base/java.util.concurrent.Executors$DelegatedExecutorService.execute(Unknown Source)
+	at org.knime.gateway.impl.service.util.CallThrottle.invoke(CallThrottle.java:149)
+	at org.knime.gateway.impl.service.util.WorkflowChangesListener.callback(WorkflowChangesListener.java:416)
+	at org.knime.gateway.impl.service.util.WorkflowChangesListener.lambda$6(WorkflowChangesListener.java:156)
+	at org.knime.core.node.workflow.WorkflowListener.callWorkflowChanged(WorkflowListener.java:84)
+	at org.knime.core.node.workflow.WorkflowManager.lambda$84(WorkflowManager.java:8411)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at org.knime.core.node.workflow.WorkflowManager.lambda$83(WorkflowManager.java:8411)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)

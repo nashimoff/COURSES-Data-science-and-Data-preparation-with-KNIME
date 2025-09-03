@@ -1,0 +1,22 @@
+{
+  "version" : "5.5.1.v202507241444",
+  "projects" : [ {
+    "name" : "Reading multiple csv files",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "KNIME 4 Datascience\\Reading multiple csv files"
+    }
+  } ],
+  "mostRecentlyUsedProjects" : [ {
+    "name" : "Reading multiple csv files",
+    "timeUsed" : "2025-09-03T20:45:17.5689986+06:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "KNIME 4 Datascience\\Reading multiple csv files"
+    }
+  } ]
+}
